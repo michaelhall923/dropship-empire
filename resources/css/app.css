@@ -1,0 +1,18 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url("https://use.typekit.net/aoh0zzf.css");
+.product-tile {
+    /* padding-top: 100%; */
+    flex-basis: 50%;
+}
+
+.product-tile:hover .product-tile-info {
+    top: 50%;
+}
+
+@above 768px {
+    .product-tile {
+        flex-basis: 33.33333%;
+    }
+}

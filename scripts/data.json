@@ -1,0 +1,1245 @@
+[{
+        "input": "ELI5: Why is grief so physically exhausting?",
+        "output": 0
+    },
+    {
+        "input": "ELI5: What is the science behind innate talent? If human beings are born with no special skills, what defines their affinities toward certain instruments or sports?",
+        "output": 1
+    },
+    {
+        "input": "ELI5 - Why does your bed feel so comfortable only when you have to get up.",
+        "output": 1
+    },
+    {
+        "input": "ELI5: Why are solar panels only like ~20% efficient (i know there's higher and lower, but why are they so inefficient, why can't they be 90% efficient for example) ?",
+        "output": 0
+    },
+    {
+        "input": "eli5 how zipping a file actually works? Cause it’s the same amount of data just not",
+        "output": 0
+    },
+    {
+        "input": "ELI5: Why does our body get goosebumps while listening to some songs?",
+        "output": 1
+    },
+    {
+        "input": "ELI5: Why are mobile screens above 330ppi are very cheap but monitors and TV panels are not?",
+        "output": 0
+    },
+    {
+        "input": "ELI5: Why do your nipples harden when you’re cold?",
+        "output": 0
+    },
+    {
+        "input": "ELI5: How do windows on the ISS and other spacecraft not fog up?",
+        "output": 1
+    },
+    {
+        "input": "ELI5: Where do new crypto exchanges get their liquidity from?",
+        "output": 0
+    },
+    {
+        "input": "eli5 Why are the inner planets terrestrial and the outer planets gad giants is it just a coincidence?",
+        "output": 1
+    },
+    {
+        "input": "ELI5: How come planets are not drastically bigger from what they used to be billions of years ago?",
+        "output": 1
+    },
+    {
+        "input": "ELI5: Why do human umbilical cords have to be cut with scissors while other animals don't seem to have to do that.",
+        "output": 1
+    },
+    {
+        "input": "ELI5:Why covering half of the back wheels of a car improve its efficiency?",
+        "output": 1
+    },
+    {
+        "input": "ELI5: Why does it become impossible to fight the urge to breathe when holding your breath? Why can't we fight it until we pass out?",
+        "output": 1
+    },
+    {
+        "input": "ELI5: Apple M1 Neural Engine and what differentiate it from Intel i cores?",
+        "output": 0
+    },
+    {
+        "input": "ELI5: Why does it always look like rocket ships take off in slow motion?",
+        "output": 1
+    },
+    {
+        "input": "ELI5: What is happening when people get that tingly feeling, and even well up/cry during epic moments in movies?",
+        "output": 1
+    },
+    {
+        "input": "ELI5: How do we waste Water?",
+        "output": 0
+    },
+    {
+        "input": "ELI5 why you see dark spots after looking into a bright light",
+        "output": 1
+    },
+    {
+        "input": "eli5 why do fish and humans both have red blood?",
+        "output": 1
+    },
+    {
+        "input": "ELI5: Can you simply rename a file extension to covert it to another format, or should it be run through an online converter or something similar?",
+        "output": 0
+    },
+    {
+        "input": "ELI5: Diluting soap",
+        "output": 1
+    },
+    {
+        "input": "ELI5: Why has the availability of aluminum changed so much in the last 100 years?",
+        "output": 0
+    },
+    {
+        "input": "ELI5: Why aren't personalities inherited from parents?",
+        "output": 0
+    },
+    {
+        "input": "‘We won’t be cash cows’: UK students plan the largest rent strike in 40 years",
+        "output": 0
+    },
+    {
+        "input": "National rugby players sing Australia's national anthem in Indigenous language for first time before match",
+        "output": 0
+    },
+    {
+        "input": "Thousands of anti-Lukashenko protesters march in Belarus, dozens detained",
+        "output": 0
+    },
+    {
+        "input": "Britain’s Queen Elizabeth to get Covid-19 vaccine ‘in weeks’: Reports",
+        "output": 0
+    },
+    {
+        "input": "Japanese spacecraft successfully returns asteroid sample to Earth",
+        "output": 1
+    },
+    {
+        "input": "Erdoğan to face human rights scrutiny next week, EU says",
+        "output": 0
+    },
+    {
+        "input": "CSIS warns about conspiracy theories linking COVID-19 to 5G technology - A confidential Canadian Security Intelligence Service report obtained by Global News anticipates that “ideologically motivated violent” (IMV) extremists may target 5G sites",
+        "output": 0
+    },
+    {
+        "input": "Israeli police cleared in shooting of maimed Palestinian boy",
+        "output": 0
+    },
+    {
+        "input": "'Devastating': more than 61,000 koalas among 3 billion animals affected by bushfire crisis",
+        "output": 0
+    },
+    {
+        "input": "Uganda police say they regret firing live bullets that killed more than 50 people during demonstration against the arrest of opposition politician Bobi Wine",
+        "output": 0
+    },
+    {
+        "input": "500 kilogram WWII bomb sparks evacuation in Frankfurt. Thousands of residents from the Gallus district of Germany's financial capital, Frankfurt, were told to leave their homes in preparation for the safe removal of a British 500-kilogram (1,100 lb) World War II bomb on Sunday.",
+        "output": 0
+    },
+    {
+        "input": "Jailed Saudi activist Loujain al-Hathloul is accused of contacting \"unfriendly\" states and providing classified information after the campaigner's trial was transferred to a terrorism court. Hathloul was arrested in May 2018 with around a dozen other women activists",
+        "output": 0
+    },
+    {
+        "input": "Police officer who retired after novichok poisoning 'fighting for pension', says wife",
+        "output": 0
+    },
+    {
+        "input": "UK races to deport asylum seekers ahead of Brexit",
+        "output": 0
+    },
+    {
+        "input": "Japan to ban domestic gas-fueled car sales by mid-2030s.",
+        "output": 0
+    },
+    {
+        "input": "Chinese coal miners killed by carbon monoxide poisoning",
+        "output": 0
+    },
+    {
+        "input": "UN Secretary General says misinformation on Covid-19 is ‘shadow pandemic’",
+        "output": 0
+    },
+    {
+        "input": "‘If you don’t think Covid is real, you’re an idiot,’ says Canadian politician",
+        "output": 0
+    },
+    {
+        "input": "FIFA Approves Maternity Leave For Female Players",
+        "output": 0
+    },
+    {
+        "input": "'High-value' business travellers to be exempt from quarantine in England",
+        "output": 0
+    },
+    {
+        "input": "Tens of thousands Indian farmers have been camping at the border of the capital city for 11 days. Demanding the government to scrap newly introduced farm bills.",
+        "output": 0
+    },
+    {
+        "input": "Venezuela vote likely to give Congress to Maduro’s party",
+        "output": 0
+    },
+    {
+        "input": "Mine ponds cause toxic mercury pollution in the Peruvian Amazon",
+        "output": 0
+    },
+    {
+        "input": "Australia bushfire: Fraser Island residents told to leave immediately",
+        "output": 0
+    },
+    {
+        "input": "Oslo got pedestrian and cyclist deaths down to zero.",
+        "output": 1
+    },
+    {
+        "input": "Official Discussion Megathread (Mank / Sound of Metal / Ammonite / Black Bear / Godmothered / Red, White and Blue / Freaky VOD release)",
+        "output": 1
+    },
+    {
+        "input": "What is the Best Film You Watched Last Week? (11/29/20-12/06/20)",
+        "output": 1
+    },
+    {
+        "input": "I've watched every winner of the Best Picture Oscar (and the one time only \"Best Unique and Artistic Picture\") in chronological order during the last 97 days!",
+        "output": 0
+    },
+    {
+        "input": "Peter Jackson Fixed Visual Inconsistencies While Remastering The Lord Of The Rings Trilogy In 4K",
+        "output": 1
+    },
+    {
+        "input": "Actor David Lander, best known as Squiggy on the ABC sitcom “Laverne &amp; Shirley,” died Friday evening at Cedars-Sinai Medical Center in Los Angeles, his family confirmed to Variety. He was 73.",
+        "output": 0
+    },
+    {
+        "input": "The Santa Clause (1994) is a horrifying movie from the Moms perspective.",
+        "output": 0
+    },
+    {
+        "input": "Thirty years after its release, \"The Godfather: Part III\" -- long dismissed as the Fredo of the trilogy -- becomes \"The Godfather, Coda: The Death of Michael Corleone\"",
+        "output": 0
+    },
+    {
+        "input": "The motel scene from No Country For Old Men is a great example of characters behaving smartly but still not succeeding",
+        "output": 1
+    },
+    {
+        "input": "Are there any other “adult” funny Xmas movies like Office Christmas Party and Bad Santa?",
+        "output": 0
+    },
+    {
+        "input": "HBO Max Warner Brothers 2021 Release Schedule: ‘Matrix 4,’ ‘Tom and Jerry,’ ‘Space Jam 2,’ ‘Dune’ Release Dates",
+        "output": 0
+    },
+    {
+        "input": "Wong Kar-Wai Reveals He Has Tweaked Many Of His Classic Films Restored In 4K",
+        "output": 1
+    },
+    {
+        "input": "Name your favorite adaptation of \"A Christmas Carol\"",
+        "output": 1
+    },
+    {
+        "input": "What are the movies that defined your childhood?",
+        "output": 1
+    },
+    {
+        "input": "Groundhog Day: A Perfect Symbiosis Between Philosophy and Filmmaking",
+        "output": 0
+    },
+    {
+        "input": "New Zealand screen industry's brain gain: 'There's no place like home'.",
+        "output": 0
+    },
+    {
+        "input": "Anyone Tried Watching Films on the PS5?",
+        "output": 1
+    },
+    {
+        "input": "Which are the most annoying kid characters in movies, in your opinion?",
+        "output": 0
+    },
+    {
+        "input": "rain aesthetic",
+        "output": 1
+    },
+    {
+        "input": "First Image of Bugs Bunny in SPACE JAM: A NEW LEGACY",
+        "output": 0
+    },
+    {
+        "input": "From the land of no cinemas, a film worth watching in one.There is no cinema in Lesotho but it has a film ,the story of a widow’s will to live, entered for the best international feature film category at next year’s Oscars.",
+        "output": 1
+    },
+    {
+        "input": "My 12 year old is pissed at me because he accidentally proved that Die Hard is indeed a Christmas movie. [SPOILERS]",
+        "output": 0
+    },
+    {
+        "input": "Disappointment with director choice for Conjuring 3",
+        "output": 0
+    },
+    {
+        "input": "'Extraction': Russo Brothers are working at building out a universe of films that could potentially explore some of the other characters from the first movie, including David Harbour's character, and some new characters; sequel will shoot in Fall 2021.",
+        "output": 0
+    },
+    {
+        "input": "Each era's \"Action Movie Hero\" says a lot about a culture's mood, values, ideals, wish fulfillments, etc. Who do you think is our current \"Action Hero\" and what do they say about us now?",
+        "output": 1
+    },
+    {
+        "input": "Studio Logo Intro Variants in Film",
+        "output": 1
+    },
+    {
+        "input": "Best Marriage/Divorce fight dialogues. Which is your favorite? (From Kramer vs Kramer, Revolutionary Road, Blue Valentine, Marriage Story, Her, The Crown)",
+        "output": 0
+    },
+    {
+        "input": "Real people who've gotten several movies made about their life where none of them have been good",
+        "output": 0
+    },
+    {
+        "input": "[Meta] Bi-weekly General Discussion Thread",
+        "output": 1
+    },
+    {
+        "input": "This was on a cage the elephant song. The orinigal commenter said that he was sexually attracted to this song, meaning he loved it",
+        "output": 1
+    },
+    {
+        "input": "TIHI user hates more than just the post.",
+        "output": 0
+    },
+    {
+        "input": "On a twitter thread about transphobes and Elliot Page",
+        "output": 0
+    },
+    {
+        "input": "My CS professor from Sophomore year",
+        "output": 1
+    },
+    {
+        "input": "Redditor perceives diverse realities",
+        "output": 0
+    },
+    {
+        "input": "The level of this guys intellect is just too much for me to handle",
+        "output": 0
+    },
+    {
+        "input": "Getting an MS is for low-IQ people",
+        "output": 0
+    },
+    {
+        "input": "Friend from high school is oozing intelligence",
+        "output": 0
+    },
+    {
+        "input": "He is multitasking.",
+        "output": 0
+    },
+    {
+        "input": "Just your average second grader learning quantum physics to better under stand negative numbers? Thank you FDS, very cool.",
+        "output": 0
+    },
+    {
+        "input": "On a Quora post regarding an assignment for the IB program.",
+        "output": 0
+    },
+    {
+        "input": "He is far more advanced intellectually than you",
+        "output": 0
+    },
+    {
+        "input": "Apparently I know the real Rick Sanchez",
+        "output": 0
+    },
+    {
+        "input": "I could read blueprints at 14 and was accepted into MIT and RPI. I’ll just leave that here for your low level degree.",
+        "output": 0
+    },
+    {
+        "input": "he took a few IQ tests...",
+        "output": 0
+    },
+    {
+        "input": "Had to steal the opportunity to post since the odds of running into someone like him is one in 20 billion guys",
+        "output": 0
+    },
+    {
+        "input": "They're \"naturally good at games like this\"",
+        "output": 0
+    },
+    {
+        "input": "Youtuber made a joke about quitting their videos and playing video games for a year. This guy didn’t get it.",
+        "output": 0
+    },
+    {
+        "input": "Tall tales from a genius",
+        "output": 0
+    },
+    {
+        "input": "Reddit’s resident expert on sharks. You imbeciles could learn something valuable.",
+        "output": 0
+    },
+    {
+        "input": "An unprovoked comment from an innocent and cute webcomic about Halloween. Maybe this doesn't belong, but it's the first thing I thought when I saw it.",
+        "output": 0
+    },
+    {
+        "input": "\"critical thinking is indeed fun\"",
+        "output": 0
+    },
+    {
+        "input": "Your stupidity is insulting me.",
+        "output": 0
+    },
+    {
+        "input": "Bust out the thesaurus",
+        "output": 0
+    },
+    {
+        "input": "ViSuAl sOpHiStIcAtIoN...",
+        "output": 0
+    },
+    {
+        "input": "What should I do with this space? New cabinets/counter going in that will allow barstools at peninsula and have another dining area so prefer to use this space to extend the living room. There's a hallway to the left which breaks up living area. Thoughts?",
+        "output": 1
+    },
+    {
+        "input": "Possible problem with masonry colour on new build?",
+        "output": 1
+    },
+    {
+        "input": "Tiles for front porch? I’d like to install tiles on the parts where there is wood decking. What color of tiles would look good with our color scheme? And yea we plan on keeping the brick steps as is.",
+        "output": 1
+    },
+    {
+        "input": "How would I shorten this light fixture? We keep honking our heads!",
+        "output": 1
+    },
+    {
+        "input": "Attic",
+        "output": 1
+    },
+    {
+        "input": "This may be a dumb question but is this white thing next to me tv a radiator? And if so, is it bad to have it by my tv?",
+        "output": 0
+    },
+    {
+        "input": "Does leaving roach infested electronics in cold weather kill them and the eggs?",
+        "output": 0
+    },
+    {
+        "input": "Need ideas for bare wall in my living room",
+        "output": 1
+    },
+    {
+        "input": "Any ideas on how to make window dust filter?",
+        "output": 1
+    },
+    {
+        "input": "What is leaking and which way does the bar go? Coming from PVC outside only regardless of position.",
+        "output": 0
+    },
+    {
+        "input": "The Cheap Quality of American Homes",
+        "output": 0
+    },
+    {
+        "input": "How can I buy a house with bad credit?",
+        "output": 0
+    },
+    {
+        "input": "Any way to fix ruined tiles?",
+        "output": 0
+    },
+    {
+        "input": "Smell and condensate",
+        "output": 0
+    },
+    {
+        "input": "anybody got tips on how i can fix this part of the wall without removing the whole thing? it’s really bothering me (old person who lived here left it this way)",
+        "output": 0
+    },
+    {
+        "input": "Should I be worried about my home always hovering around 50% humidity?",
+        "output": 0
+    },
+    {
+        "input": "I used wallpaper for my old cabinet. looks brand new again.",
+        "output": 1
+    },
+    {
+        "input": "Can you use SodaStream mixes with other soda-making machines (e.g. SodaKing)?",
+        "output": 1
+    },
+    {
+        "input": "Renovating my laundry room.",
+        "output": 1
+    },
+    {
+        "input": "Humidifier &amp; Dehumidifier in ~100 year old home",
+        "output": 1
+    },
+    {
+        "input": "To anyone wanting to know a very fast efficient way to rake yard leaves. 15 minutes of work.",
+        "output": 1
+    },
+    {
+        "input": "I made a cover for my router and modem. Plenty of airspace for cooling. Held together with hot glue.",
+        "output": 1
+    },
+    {
+        "input": "I made a tunnel to the garage to keep the litter outside. Francis loves it.",
+        "output": 1
+    },
+    {
+        "input": "Help",
+        "output": 0
+    },
+    {
+        "input": "Anybody know how to fix my door? only closes by slamming it or shaking it around",
+        "output": 0
+    },
+    {
+        "input": "David Perdue bought Pfizer stock one week before vaccine announcement",
+        "output": 0
+    },
+    {
+        "input": "Biden's already more popular than Trump's ever been",
+        "output": 0
+    },
+    {
+        "input": "Trump seems depressed and is doing little work apart from pursuing his election fraud claims, report says",
+        "output": 0
+    },
+    {
+        "input": "Tapper blasts Trump's Georgia rally: If only he went after the virus the way he does democracy",
+        "output": 0
+    },
+    {
+        "input": "Trump fails to deliver on his promise of 300 million vaccines in 2020",
+        "output": 0
+    },
+    {
+        "input": "McConnell Faces New Pressure for Big Stimulus After Grim Unemployment Report: 'Political Games Costing Lives'",
+        "output": 0
+    },
+    {
+        "input": "Rudy Giuliani celebrated a recent Michigan ruling as a 'big win' for Trump's election team. It was actually about a local marijuana measure.",
+        "output": 0
+    },
+    {
+        "input": "Civil war between MAGA, GOP establishment could hand Dems total control",
+        "output": 0
+    },
+    {
+        "input": "Biden will team up with Europe to be tougher on China than Trump",
+        "output": 0
+    },
+    {
+        "input": "Reporters at Trump's Georgia rally had to enter 'RiggedElection!' as the WiFi password to a network titled 'Make America Great Again'",
+        "output": 0
+    },
+    {
+        "input": "‘He’s the president-elect, sir’: Fox’s Chris Wallace corrects Trump health secretary on Biden’s title",
+        "output": 0
+    },
+    {
+        "input": "Georgia voting manager says he now has 'police protection' to guard against threats caused by Trump's election disinformation",
+        "output": 0
+    },
+    {
+        "input": "Mellissa Carone, Giuliani's star witness in the Trump campaign's election fraud case, harassed her fiance's ex-wife by sending her sex tapes",
+        "output": 0
+    },
+    {
+        "input": "A miserable end to a miserable presidency",
+        "output": 0
+    },
+    {
+        "input": "Judge Jeanine calls Bill Barr a ‘reptile’ as Trumpworld turns on his attorney general",
+        "output": 0
+    },
+    {
+        "input": "Trump’s false fraud claims are laying groundwork for new voting restrictions, experts warn",
+        "output": 0
+    },
+    {
+        "input": "Wallace interrupts at Azar over Biden's title: 'He's the president elect'",
+        "output": 0
+    },
+    {
+        "input": "New Jersey gala attended by Rep. Matt Gaetz that ignored COVID rules prompts restaurant closure",
+        "output": 0
+    },
+    {
+        "input": "GOP senator privately concedes it’s ‘political suicide’ to admit Biden won",
+        "output": 0
+    },
+    {
+        "input": "$1,500 payment proposed for people who get COVID-19 vaccine",
+        "output": 0
+    },
+    {
+        "input": "Fox News’ Chris Wallace Corrects HHS Secretary Alex Azar: ‘It’s President-Elect Joe Biden’",
+        "output": 0
+    },
+    {
+        "input": "ABC's Stephanopoulos to GOP senator on presidential race: 'Why can't you accept the results'",
+        "output": 0
+    },
+    {
+        "input": "Contractors working on Trump's border wall are pointlessly blowing up chunks of Arizona that they won't have time to actually build on, campaigners say",
+        "output": 0
+    },
+    {
+        "input": "'If I lost, I'd be a very gracious loser,' Trump said during a rally where he falsely claimed he won an election that he lost",
+        "output": 0
+    },
+    {
+        "input": "Star Giuliani Witness Mellissa Carone Was Recently On Probation Because of Raunchy Recording",
+        "output": 0
+    },
+    {
+        "input": "Man killed in attempted carjacking was beloved special education teacher, father",
+        "output": 0
+    },
+    {
+        "input": "Sheriff: Defiant NYC bar owner struck deputy with his car",
+        "output": 0
+    },
+    {
+        "input": "A New York artist spent $65,000 buying art to support fellow artists struggling because of the pandemic",
+        "output": 0
+    },
+    {
+        "input": "Nearly 90% of residents at one nursing home test positive for COVID-19",
+        "output": 0
+    },
+    {
+        "input": "Little pygmy possum discovered on Kangaroo Island after fears bushfires had wiped them out",
+        "output": 0
+    },
+    {
+        "input": "Drug reverses age-related cognitive decline within days",
+        "output": 0
+    },
+    {
+        "input": "FBI raids New Jersey lab, urges new Covid-19 tests for people who went there",
+        "output": 0
+    },
+    {
+        "input": "Hawaii is offering free round trips to remote workers who want to live there temporarily",
+        "output": 1
+    },
+    {
+        "input": "7 nursing home COVID-19 deaths reported after staff attended wedding",
+        "output": 0
+    },
+    {
+        "input": "A teacher who turned his home into a PPE factory during the pandemic was honored with a new car",
+        "output": 0
+    },
+    {
+        "input": "Man experiencing mental issues dies in custody after, Houston police say, he 'tripped and fell'",
+        "output": 0
+    },
+    {
+        "input": "'At least' four strains of COVID-19 found in Baltimore Ravens' facility",
+        "output": 0
+    },
+    {
+        "input": "Vancouver Canucks' anthem singer gets the boot over plans to perform at anti-mask rally | CBC News",
+        "output": 0
+    },
+    {
+        "input": "Library removes LGBTQ books from kids’ section",
+        "output": 0
+    },
+    {
+        "input": "Nazi art dispute goes to US supreme court in landmark case",
+        "output": 0
+    },
+    {
+        "input": "15 law school students told they passed bar exam, then told they didn't",
+        "output": 0
+    },
+    {
+        "input": "Covid: Argentina passes tax on wealthy to pay for virus measures",
+        "output": 0
+    },
+    {
+        "input": "Michigan woman charged with '03 murders of newborn twin sons",
+        "output": 0
+    },
+    {
+        "input": "Mastercard to investigate allegations against Pornhub",
+        "output": 0
+    },
+    {
+        "input": "Seattle announces $5M in grants for restaurant, bar workers and hospitality industry",
+        "output": 0
+    },
+    {
+        "input": "Paradise Valley Superintendent Dr. Jesse Welsh and his family harassed, threatened over school closures",
+        "output": 0
+    },
+    {
+        "input": "Couple, Ages 100 and 98, Released From Hospitals Ahead of 73rd Anniversary After COVID-19",
+        "output": 0
+    },
+    {
+        "input": "Nor'easter brings over a foot of snow to parts of New England",
+        "output": 1
+    },
+    {
+        "input": "China to ban all solid waste imports from day 1, 2021",
+        "output": 0
+    },
+    {
+        "input": "Tom Brady’s Company TB12 Inc. Received Nearly $1 Million In PPP Loans",
+        "output": 0
+    },
+    {
+        "input": "IT EXPLICITLY SAYS “No Gift Posts” IN THE SIDE BAR; WHY DO STUPID MOTHERFUCKERS CHOOSE TO IGNORE THIS FACT?",
+        "output": 0
+    },
+    {
+        "input": "How often do you get asked out by women?",
+        "output": 0
+    },
+    {
+        "input": "How common is it to feel a bit...stifled by your family?",
+        "output": 0
+    },
+    {
+        "input": "What are you reading these days?",
+        "output": 1
+    },
+    {
+        "input": "Men who have lost yourself in a relationship, what's your story and how did you deal with it?",
+        "output": 0
+    },
+    {
+        "input": "Men of Reddit, what is one thing you're grateful for?",
+        "output": 1
+    },
+    {
+        "input": "How can your wife/gf communicate their feelings of discontent within the relationship without making you feel attacked or like you are about to be controlled?",
+        "output": 0
+    },
+    {
+        "input": "What things in a relationship made you feel emasculated and why?",
+        "output": 0
+    },
+    {
+        "input": "Men who’ve decided to cut their long hair. Do you regret your decision? Yes or no and why?",
+        "output": 1
+    },
+    {
+        "input": "Men of Reddit, how was this year for YOU specifically?",
+        "output": 1
+    },
+    {
+        "input": "Whats an immature thing you do with your friends?",
+        "output": 1
+    },
+    {
+        "input": "Men Who Rev Their Engines At Stoplights: What's It Like Being Better Than The Rest Of Us?",
+        "output": 0
+    },
+    {
+        "input": "Men of Reddit, what depiction of romance in a book/movie/show do you connect with?",
+        "output": 1
+    },
+    {
+        "input": "Is there a reason for why men tend to not wash their buttholes before sex?",
+        "output": 0
+    },
+    {
+        "input": "How do you meet and connect with women and men while staying true to yourself?",
+        "output": 0
+    },
+    {
+        "input": "What's a good website besides Reddit to waste your time on?",
+        "output": 0
+    },
+    {
+        "input": "What's a chill nighttime joyride song in the city?",
+        "output": 1
+    },
+    {
+        "input": "For those that have dated outside of their preferred physical \"type,\" what was it like and do you regret it?",
+        "output": 0
+    },
+    {
+        "input": "Men of Reddit, what are some life hacks you have?",
+        "output": 1
+    },
+    {
+        "input": "Fellow men what do you do when your emotionally tired from rejection and yearn for stability?",
+        "output": 0
+    },
+    {
+        "input": "What was your 'I need to get my sh*t together' moment ?",
+        "output": 0
+    },
+    {
+        "input": "What is fun to do during lockdown?",
+        "output": 1
+    },
+    {
+        "input": "How much money do you think you’ve spent on dating in your life?",
+        "output": 0
+    },
+    {
+        "input": "You can summon Michael Jordan just to aggressively slap a person you are standing next to you. What interesting scenarios would you use this power in?",
+        "output": 1
+    },
+    {
+        "input": "How do I grow up and \"grow some balls\"?",
+        "output": 0
+    },
+    {
+        "input": "How do you broach the topic of ex girlfriend with your current one?",
+        "output": 0
+    },
+    {
+        "input": "US Politics Megathread III: Election edition! All your questions about US government and politics in one place!",
+        "output": 0
+    },
+    {
+        "input": "Covid-19 Megathread IV: All your questions about the pandemic, social distancing, vaccines and stimulus plans in one place!",
+        "output": 0
+    },
+    {
+        "input": "Is there a website that lets me search for a product on Amazon, then suggests a different site to buy it from?",
+        "output": 0
+    },
+    {
+        "input": "Why is a 20 piece McNugget $6.59 when they have a 4 piece for $1? I could buy five 4 pieces and save $1.50.",
+        "output": 0
+    },
+    {
+        "input": "Americans, do you actually have to recite the pledge of allegiance, like in movies? Is it as culty as it looks?",
+        "output": 0
+    },
+    {
+        "input": "Do you ever Look in the Mirror and recognize that factually the reflection is yours, but yet feel you should see someone else?",
+        "output": 1
+    },
+    {
+        "input": "How common is airing your house?",
+        "output": 1
+    },
+    {
+        "input": "Why do Americans put eggs in the fridge?",
+        "output": 0
+    },
+    {
+        "input": "Is it true that translating The Bible over the centuries has fundamentally changed some Christian values and teaching?",
+        "output": 0
+    },
+    {
+        "input": "Does anyone else not ever want to eat? I notice I’m starving to the point of not feeling good, but still I don’t want to eat.",
+        "output": 0
+    },
+    {
+        "input": "In a country like Greece, where the thumbs up gesture is seen as offensive, does Youtube still use the thumbs up / thumbs down system for rating videos? If not, what do they use?",
+        "output": 0
+    },
+    {
+        "input": "How can I know a man will be good at sex before having sex with him?",
+        "output": 0
+    },
+    {
+        "input": "How do we know that Dinosaurs were savage beasts and not sentient civilizations?",
+        "output": 1
+    },
+    {
+        "input": "Washing a weighted blanket",
+        "output": 1
+    },
+    {
+        "input": "Why is the standard bathtub size so small?",
+        "output": 0
+    },
+    {
+        "input": "What do people normally do on their birthdays who do not go out?",
+        "output": 0
+    },
+    {
+        "input": "If you setup a lightbar in your house for your dog that shifted from yellow when your leave your house, to blue when you're supposed to get home (the two colors dogs can see apparently), could the dog learn the association and no longer feel stressed about you leaving home?",
+        "output": 1
+    },
+    {
+        "input": "Why, when I google the Phonetic spelling of a word do I get something that looks like it came from another alphabet?",
+        "output": 1
+    },
+    {
+        "input": "In German cynical means \"a hurtful critique that looks down on the object/subject, scoff, mordant ridicule, even anti-human \". In English i quite often see the word just thrown in whenever someone talks about a non religious person no matter how that person conducts himself in general.",
+        "output": 0
+    },
+    {
+        "input": "If Someone's 3 hours ahead in a Timezone arent they living in the future?",
+        "output": 1
+    },
+    {
+        "input": "do people who buy porn subscriptions watch videos from start to finish?",
+        "output": 0
+    },
+    {
+        "input": "When you taste a burp, are you actually smelling it?",
+        "output": 0
+    },
+    {
+        "input": "Is there a way to alter your voice by doing something to your throat, and if so how?",
+        "output": 1
+    },
+    {
+        "input": "Do you ever feel like your body isn't real, but you just accept that it is?",
+        "output": 1
+    },
+    {
+        "input": "Do Dingo's have the strongest bite force of any canine currently on the planet earth?",
+        "output": 1
+    },
+    {
+        "input": "If the blades of a helicopter were stuck in, for example two trees, would the body of the helicopter start rotating?",
+        "output": 1
+    },
+    {
+        "input": "Is it normal for your body to become itchy when it becomes hot?",
+        "output": 0
+    },
+    {
+        "input": "Murloc Monday - ask your questions here",
+        "output": 0
+    },
+    {
+        "input": "Skirmish Sunday - your weekly PvP thread!",
+        "output": 0
+    },
+    {
+        "input": "Lessons in Magic: Levitate",
+        "output": 0
+    },
+    {
+        "input": "Just the cutest cat in Maldraxxus, Pus-In-Boots.",
+        "output": 0
+    },
+    {
+        "input": "Coming back for the Shadowlands after a long break has been quite the experience for this old Druid. [OC, insta - @excitedfuranewday]",
+        "output": 0
+    },
+    {
+        "input": "Anyone have any idea what was going on here? 😂 🦕🐸",
+        "output": 1
+    },
+    {
+        "input": "Damn Orcs",
+        "output": 0
+    },
+    {
+        "input": "Why cant the kyrian „mount“ just be the player sprouting those beautiful wings and fly around the map? Still hoping for something like this in the future!",
+        "output": 0
+    },
+    {
+        "input": "Blizzard, it is time to make Balance of Power account-wide.",
+        "output": 0
+    },
+    {
+        "input": "Fae Harp + Sandstone Drake = Vibes",
+        "output": 0
+    },
+    {
+        "input": "I am not doing background checks on any of the five souls I rescued a week from the Maw, there is a reasonable chance one of them is meant to be there.",
+        "output": 0
+    },
+    {
+        "input": "The arm glitch with the troll dance is beautiful",
+        "output": 0
+    },
+    {
+        "input": "Excitedly made my first legendary and then noticed the made by name",
+        "output": 0
+    },
+    {
+        "input": "Castle Nathria Raid Bosses GIF Illustrated - Mythic Trap",
+        "output": 0
+    },
+    {
+        "input": "Everytime",
+        "output": 1
+    },
+    {
+        "input": "It's been a decade since Deathwing's return, and the roads in East Durotar still look like this. Screw all the talk of leading the Horde to victory, I want someone to lead the Horde to decent infrastructure.",
+        "output": 0
+    },
+    {
+        "input": "Hey Blizz. do you think it possible if you were able to move the legendary drops to the final boss? Been having so many runs lately with people bailing after a failed drop. Thanks ...",
+        "output": 0
+    },
+    {
+        "input": "What it feels like to play the Night Fae campaign as a Horde player",
+        "output": 0
+    },
+    {
+        "input": "Soul Ash should work just as Conquest has. If you miss a week you should be able grind the following week to the current cap to catch up.",
+        "output": 0
+    },
+    {
+        "input": "Can we just agree, that Ardenweald is one of the most beautiful regions in wow?",
+        "output": 0
+    },
+    {
+        "input": "When I try to AFK in the Torghast and Stabby McStabstab comes along.",
+        "output": 0
+    },
+    {
+        "input": "Could not be happier to be done with BFA",
+        "output": 0
+    },
+    {
+        "input": "The runeblade you forge in Maldraxxus should be moggable.",
+        "output": 0
+    },
+    {
+        "input": "Bastion at night.",
+        "output": 0
+    },
+    {
+        "input": "Each time he says that i think about those mashrooms",
+        "output": 0
+    },
+    {
+        "input": "Well this looks stupid...",
+        "output": 0
+    },
+    {
+        "input": "da bang da dang diggy diggy diggy",
+        "output": 1
+    },
+    {
+        "input": "Simple Questions - December 06, 2020",
+        "output": 1
+    },
+    {
+        "input": "buildapc Live Stream PC Build! Sunday 6th December from 1pm PST / 4pm EST / 9pm GMT",
+        "output": 0
+    },
+    {
+        "input": "Is the difference between an 80+ gold PSU and an 80+ bronze PSU really worth the difference in price?",
+        "output": 0
+    },
+    {
+        "input": "My mom wanted to surprise me but...",
+        "output": 1
+    },
+    {
+        "input": "So very sad right now...",
+        "output": 0
+    },
+    {
+        "input": "Built a PC for my Son and his Bday",
+        "output": 1
+    },
+    {
+        "input": "3060 ti with a 500w psu will this work smoothly??",
+        "output": 0
+    },
+    {
+        "input": "Do I need an anti static bracelet?",
+        "output": 0
+    },
+    {
+        "input": "What GPU should I buy for some 1080p 60fps gaming?",
+        "output": 0
+    },
+    {
+        "input": "Computer illiterate wife wants to surprise husband for Christmas",
+        "output": 1
+    },
+    {
+        "input": "Please be careful when buying GPUs on auction sites.",
+        "output": 0
+    },
+    {
+        "input": "4k 60FPS / VR build help",
+        "output": 0
+    },
+    {
+        "input": "What are good, 1440p 144hz monitors for around 300-600€",
+        "output": 0
+    },
+    {
+        "input": "Built my own computer, everything has been working fine but i just plugged my dead ipad in to charge it and the computer shut down.",
+        "output": 0
+    },
+    {
+        "input": "Warning about buying from Newegg",
+        "output": 0
+    },
+    {
+        "input": "Desperately needed a new PC, so here's my first build!",
+        "output": 1
+    },
+    {
+        "input": "Should I get a better monitor for a 570 card?",
+        "output": 0
+    },
+    {
+        "input": "Gpu upgrade from 1070 ti to 3070",
+        "output": 0
+    },
+    {
+        "input": "Which headset to buy",
+        "output": 0
+    },
+    {
+        "input": "Last check before ordering, is everything looking good?",
+        "output": 1
+    },
+    {
+        "input": "Monitors turn off, gpu fans loud",
+        "output": 0
+    },
+    {
+        "input": "5800x CPU temp won't fluctuate in Windows?",
+        "output": 0
+    },
+    {
+        "input": "Thinking about moving to pc from PlayStation",
+        "output": 1
+    },
+    {
+        "input": "for building a pc are u plugging the power supply into the the case then case into wall or case into power supply and the power supply to wall",
+        "output": 0
+    },
+    {
+        "input": "External Optical Drive?",
+        "output": 0
+    },
+    {
+        "input": "Boot help",
+        "output": 0
+    },
+    {
+        "input": "My new Build seems having a limit on download speed",
+        "output": 0
+    },
+    {
+        "input": "Free Talk Sunday - /r/PS4 Weekly Open Discussion Thread (2020.12.06)",
+        "output": 0
+    },
+    {
+        "input": "[Screenshot] [Spider-Man: Miles Morales] Just some shots I took during my playthrough of the game on PS4 Pro",
+        "output": 0
+    },
+    {
+        "input": "Arthur Morgan rocking Legend of the east vest [red dead redemption2] [screenshot]",
+        "output": 0
+    },
+    {
+        "input": "[Video] A small clip of TRIA-GONE - a hyper fast synthwave-inspired action game I made in DREAMS",
+        "output": 0
+    },
+    {
+        "input": "[Image] [Ghost of Tsushima] One of my favorite shots of this game",
+        "output": 0
+    },
+    {
+        "input": "[Cyberpunk 2077] [Image] extremely fortunate to get this game early and have about 30 hours played. Will answer any non-story spoiler questions you may have.",
+        "output": 0
+    },
+    {
+        "input": "[Image] i painted Mando on my PS4",
+        "output": 0
+    },
+    {
+        "input": "The Game Awards 2020 will have 5 world premieres in the pre-show, plus a musical performance",
+        "output": 0
+    },
+    {
+        "input": "[Screenshot] Photo mode picture I took in Spider Man PS4",
+        "output": 0
+    },
+    {
+        "input": "Morbid: The Seven Acolytes - Launch Trailer [Video]",
+        "output": 0
+    },
+    {
+        "input": "A friend of mine with Down syndrome got banned today for having a picture of himself as his cover image, what do we do?",
+        "output": 0
+    },
+    {
+        "input": "Vote in Round 3 (final round) of The Game Awards 2020 - Players voice award. (3/5 playstation exclusives! 2020 a great year for PlayStation!)",
+        "output": 0
+    },
+    {
+        "input": "[video] I love it when games actually give you breaks like this. And a funny one no less!",
+        "output": 0
+    },
+    {
+        "input": "How many discs does physical Spiderman have?",
+        "output": 0
+    },
+    {
+        "input": "[Video][The Last of Us Part 2] American Beauty",
+        "output": 0
+    },
+    {
+        "input": "[Atelier Ryza] [Video] Photo mode shenanigans",
+        "output": 0
+    },
+    {
+        "input": "Puzzle / Co-Op Games to play with non-Gamers",
+        "output": 1
+    },
+    {
+        "input": "My friend sold me his Spider-Man PS4 Pro for 175 bux! [Image]",
+        "output": 0
+    },
+    {
+        "input": "How do you change profile background/border on the new ps app?",
+        "output": 0
+    },
+    {
+        "input": "Is it possible a game can't run properly because of faulty disc even though it's installed properly?",
+        "output": 0
+    },
+    {
+        "input": "Which game do you think is better, Ghost of Tsushima or Horizon Zero Dawn?",
+        "output": 0
+    },
+    {
+        "input": "Question regarding install of SSD and back up saves on ps4",
+        "output": 0
+    },
+    {
+        "input": "Ps4 shut off and won't come back on. No noise at all.",
+        "output": 0
+    },
+    {
+        "input": "PS4 wont update system software or recognize disks",
+        "output": 0
+    },
+    {
+        "input": "I need help cleaning",
+        "output": 0
+    },
+    {
+        "input": "Controller Malfunction Help",
+        "output": 0
+    }
+]
