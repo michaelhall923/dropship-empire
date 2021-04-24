@@ -18,3 +18,7 @@ mix.js('resources/js/app.js', 'public/js')
         require('postcss-easy-media-query')
     ])
     .webpackConfig(require('./webpack.config'));
+
+    if (mix.config.production) {
+        mix.version();
+    }
