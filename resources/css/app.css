@@ -16,3 +16,16 @@
         flex-basis: 33.33333%;
     }
 }
+
+@above 1366px {
+    .product-tile {
+        flex-basis: 25%;
+    }
+}
+
+@above 1920px {
+    .product-tile {
+        flex-basis: 16.66666%;
+    }
+}
+
