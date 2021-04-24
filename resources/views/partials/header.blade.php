@@ -1,4 +1,4 @@
-<header class="sticky top-0 z-50 shadow-sm bg-gray-100 text-gray-600 p-4" x-data="{ open: false }">
+<header class="sticky top-0 z-40 shadow-sm bg-gray-100 text-gray-600 p-4" x-data="{ open: false }">
     <div class="flex justify-between items-center container mx-auto">
         <a href="{{ route('home') }}"><h1 class="font-bold tracking-widest uppercase text-2xl">Dropship <span class="text-red-500">Empire</span></h1></a>
 
